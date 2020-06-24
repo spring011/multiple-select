@@ -21,8 +21,7 @@
 <style lang="less">
 #app {
   /deep/ .meta-select-box {
-    width: 400px;
-    margin: 60px;
+    width: 370px;
   }
 }
 </style>

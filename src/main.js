@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import ViewUI from 'view-design'
+import '@/styles/common.less'
 import '../my-theme/index.less'
 
 
