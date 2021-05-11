@@ -10,7 +10,7 @@
   "dependencies": {
     "view-design": "^4.2.0",
     "vue": "^2.6.10",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
